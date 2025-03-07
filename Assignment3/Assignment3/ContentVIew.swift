@@ -51,12 +51,14 @@ struct ContentVIew: View {
                                         Hair Color: \(hero.appearance?.hairColor ?? "Unknown")
                                         
                                         """)
-                    .font(.title3)
+                    .font(.body)
                     .padding()
                     .cornerRadius(12)
+                    .foregroundColor(.white)
                 } else {
                     Text("No hero selected")
                         .font(.title3)
+                        .foregroundColor(.white)
                 }
                 
                 Button {
