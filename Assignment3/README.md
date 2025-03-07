@@ -6,6 +6,6 @@ Next I created ContentView.swift, a SwiftUI view to visualize data received from
 
 Here are screenshots:
 
-![alt text](Screen1.PNG)
+![alt text](Screen1.png)
 
-![alt text](Screen2.PNG)
+![alt text](Screen2.png)
