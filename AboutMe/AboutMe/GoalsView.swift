@@ -19,10 +19,6 @@ struct GoalsView: View {
                 }
                 .navigationTitle("Goals 💡")
             }
-            
-                
-            
-            
         }
         Spacer()
     }
